@@ -1,0 +1,3 @@
+﻿  Procedure_Design.cpp
+C:\Users\hp\Desktop\程序设计\Procedure_Design\Procedure_Design.cpp(46,13): warning C4326: “main”的返回类型应为“int”而非“void”
+  Procedure_Design.vcxproj -> C:\Users\hp\Desktop\程序设计\Procedure_Design\x64\Debug\Procedure_Design.exe
